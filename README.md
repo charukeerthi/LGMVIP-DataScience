@@ -1,5 +1,5 @@
 <p align="center">
- <img width="250px" src="[https://media-exp1.licdn.com/dms/image/C4E0BAQH3Wp-0LMBbcw/company-logo_200_200/0/1641653605723?e=1649894400&v=beta&t=jR0PKRSnPzE2jhDUOBgDMAyoMVjgpUM4_MsZ7_2QLL4](https://letsgrowmore.in/wp-content/uploads/2021/05/Artboard-1-1-removebg-preview-e1645900071758.jpg)" align="center" alt="GitHub Readme Stats" />
+ <img width="250px" src="https://letsgrowmore.in/wp-content/uploads/2021/05/Artboard-1-1-removebg-preview-e1645900071758.jpg" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">LGMVIP-DataScience 
 
  (GRIPoctober21)</h1>
